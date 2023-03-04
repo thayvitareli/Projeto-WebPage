@@ -1,0 +1,1 @@
+Projeto desenvolvido utilizando HTML e CSS, para prática de estilização.
